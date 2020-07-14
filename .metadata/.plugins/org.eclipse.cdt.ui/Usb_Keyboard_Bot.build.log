@@ -1,0 +1,10 @@
+19:45:06 **** Incremental Build of configuration Debug for project Usb_Keyboard_Bot ****
+make -j8 all 
+arm-none-eabi-size   Usb_Keyboard_Bot.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21556	    336	   3448	  25340	   62fc	Usb_Keyboard_Bot.elf
+Finished building: default.size.stdout
+ 
+
+19:45:08 Build Finished. 0 errors, 0 warnings. (took 2s.649ms)
+
