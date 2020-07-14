@@ -1,5 +1,5 @@
 # STM32F103_Keyboard_Bot
-An projecto to convert the microcontroller STM32F103 in a Keyboard using the USB Protocol.
+Project to convert the microcontroller STM32F103 in a Keyboard using the USB Protocol.
 
 ## Description
 For this project I'm going to use a STM32F103(Blue Pill) for simulate a USB protocol and a KeyPad .
